@@ -1,0 +1,148 @@
+{
+  "devices": [
+    {
+      "configuration": {
+        "personName": "Hoàng Văn Nhân",
+        "_kind": "hub",
+        "deviceId": "pc-074",
+        "connectionString": "HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-074;SharedAccessKey=o5F+wP3M4pU/DPMNMJjRoax6WGON9opin7eIKlFMZfA=",
+        "tag": "production"
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Huỳnh Hữu Được",
+        "_kind": "hub",
+        "deviceId": "pc-069",
+        "connectionString": "HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-069;SharedAccessKey=5JKXsi1hmfSJMe24xcXGObgQCKhuZ3XqIlW2VdWyaRI=",
+        "tag": "production"
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Phạm Trung Kiên",
+        "_kind": "hub",
+        "deviceId": "pc-070",
+        "connectionString": "HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-070;SharedAccessKey=ElShKNYvAc+iRi2PhbqweS47ou+jM9Yb7YbYEDC7Eo8=",
+        "tag": "production"
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Ngô Tấn Đạt",
+        "_kind": "hub",
+        "deviceId": "pc-071",
+        "connectionString": "HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-071;SharedAccessKey=9+83EycGV0YqTDj8GRRQIgzE45HozwMpLTtgu0dFo90=",
+        "tag": "production"
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Nguyễn Minh Công",
+        "_kind": "hub",
+        "deviceId": "pc-068",
+        "connectionString": "HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-068;SharedAccessKey=P/DoglNrCwSBxUKp/e2soIZzcqZwPB5FuIm7N+YgPA4=",
+        "tag": "production"
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Trần Văn Hòa",
+        "_kind": "hub",
+        "deviceId": "pc-066",
+        "connectionString": "HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-066;SharedAccessKey=/l7VGJeaf2QvcMAekOB/SVPs5aXz+czEZjl2ZCtwhuc=",
+        "tag": "production"
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Đặng Thế Hùng",
+        "_kind": "hub",
+        "deviceId": "pc-067",
+        "connectionString": "HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-067;SharedAccessKey=lEJNNpjtiCwLuCVUAQsmo0eTmaTPCoGeLZibIApJNrY=",
+        "tag": "production"
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Võ Trường",
+        "_kind": "hub",
+        "deviceId": "pc-072",
+        "connectionString": "HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-072;SharedAccessKey=Cr4CsIe12JqymZgfBalw2qqZooTxS/gfSxoDgMsoX44=",
+        "tag": "production"
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Lê Thanh Nguyên",
+        "_kind": "hub",
+        "deviceId": "pc-064",
+        "connectionString": "HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-064;SharedAccessKey=uy2KXqmRyvXIsVIdLJG+t2XRdZ+LggtulkyOQ+xKdkQ=",
+        "tag": "production"
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Phạm Lê Minh Trí",
+        "_kind": "hub",
+        "deviceId": "pc-044",
+        "connectionString": "HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-044;SharedAccessKey=1wf9Tpxt4etC/yvtVJncx4Znwt3CRszgTb0qb7yOJ0A=",
+        "tag": "production"
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Nguyễn Ngọc Tường Vy",
+        "_kind": "hub",
+        "deviceId": "pc-076",
+        "connectionString": "HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-076;SharedAccessKey=3Zj5SIsGnIBtrd1fHfVF5uZJSTtZSqMqZsGMogKIOas=",
+        "tag": "production"
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Nguyễn Lê Quỳnh Tiên",
+        "_kind": "hub",
+        "deviceId": "pc-026",
+        "connectionString": "HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-026;SharedAccessKey=F/Wl+K5QCv59cEmHhGGSlv0b6dyyEipAxzl+ixZWcjg=",
+        "tag": "production"
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Nguyễn Minh Phương",
+        "_kind": "hub",
+        "deviceId": "pc-028",
+        "connectionString": "HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-028;SharedAccessKey=sTNH5Wga+Olq7azX+B0wLHuxAuXuQStsLuszugu+ZsE=",
+        "tag": "production"
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Chế Hồ Quang Đạt",
+        "_kind": "hub",
+        "deviceId": "pc-072",
+        "connectionString": "HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-072;SharedAccessKey=Cr4CsIe12JqymZgfBalw2qqZooTxS/gfSxoDgMsoX44=",
+        "tag": "production"
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Nguyễn Đình Nhã",
+        "_kind": "hub",
+        "deviceId": "pc-078",
+        "connectionString": "HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-078;SharedAccessKey=680vgcwbIBYSdqtzr7HSsp5mGu5C6utd2JMnzlvyGJw=",
+        "tag": "production"
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Vũ Hoàng Minh",
+        "_kind": "hub",
+        "deviceId": "pc-065",
+        "connectionString": "HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-065;SharedAccessKey=pEdLR/OqmZZ1xdVhyuubO7YnoEBMA/KgHAOl4UJlvU8=",
+        "tag": "production"
+      }
+    }
+  ]
+}

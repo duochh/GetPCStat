@@ -1,0 +1,17 @@
+﻿DeviceName,Connection String
+PC-074,HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-074;SharedAccessKey=o5F+wP3M4pU/DPMNMJjRoax6WGON9opin7eIKlFMZfA=
+PC-096,HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-069;SharedAccessKey=5JKXsi1hmfSJMe24xcXGObgQCKhuZ3XqIlW2VdWyaRI=
+PC-070,HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-070;SharedAccessKey=ElShKNYvAc+iRi2PhbqweS47ou+jM9Yb7YbYEDC7Eo8=
+PC-071,HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-071;SharedAccessKey=9+83EycGV0YqTDj8GRRQIgzE45HozwMpLTtgu0dFo90=
+PC-068,HostName=iothub-07e98e29.azure-devices.net;DeviceId=occupancysensor5;SharedAccessKey=5JOZxhryHenEy2wl4opXeUdeaIaCE7mQA+YykhOYE/A=
+PC-066,HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-066;SharedAccessKey=/l7VGJeaf2QvcMAekOB/SVPs5aXz+czEZjl2ZCtwhuc=
+PC-067,HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-067;SharedAccessKey=lEJNNpjtiCwLuCVUAQsmo0eTmaTPCoGeLZibIApJNrY=
+PC-072,HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-072;SharedAccessKey=Cr4CsIe12JqymZgfBalw2qqZooTxS/gfSxoDgMsoX44=
+PC-064,HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-064;SharedAccessKey=uy2KXqmRyvXIsVIdLJG+t2XRdZ+LggtulkyOQ+xKdkQ=
+PC-044,HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-044;SharedAccessKey=1wf9Tpxt4etC/yvtVJncx4Znwt3CRszgTb0qb7yOJ0A=
+PC-076,HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-076;SharedAccessKey=3Zj5SIsGnIBtrd1fHfVF5uZJSTtZSqMqZsGMogKIOas=
+PC-026,HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-026;SharedAccessKey=F/Wl+K5QCv59cEmHhGGSlv0b6dyyEipAxzl+ixZWcjg=
+PC-028,HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-028;SharedAccessKey=sTNH5Wga+Olq7azX+B0wLHuxAuXuQStsLuszugu+ZsE=
+PC-072,HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-072;SharedAccessKey=Cr4CsIe12JqymZgfBalw2qqZooTxS/gfSxoDgMsoX44=
+PC-078,HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-078;SharedAccessKey=680vgcwbIBYSdqtzr7HSsp5mGu5C6utd2JMnzlvyGJw=
+PC-065,HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-065;SharedAccessKey=pEdLR/OqmZZ1xdVhyuubO7YnoEBMA/KgHAOl4UJlvU8=
