@@ -428,7 +428,7 @@ namespace GetPCStat
 
 
                 // Running Processes
-                string[] running_process = new string[10];
+                string[] running_process = new string[10]{"null","null", "null", "null", "null", "null", "null", "null", "null", "null"};
                 int num_process = -1;
 
                 try
